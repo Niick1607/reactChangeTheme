@@ -1,5 +1,4 @@
 import React, { createContext, useContext, useState } from 'react';
-import ReactDOM from 'react-dom';
 
 const ThemeContext = createContext();
 
@@ -37,6 +36,6 @@ const ThemedComponent = () => {
 };
 
 export default {
-    ThemeProvider,
-    ThemedComponent
-};
+  ThemedComponent,
+  ThemeProvider
+}

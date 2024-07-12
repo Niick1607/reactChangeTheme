@@ -1,5 +1,5 @@
 import './App.css';
-import {ThemeProvider, ThemedComponent} from './components/ChangeTheme'
+import {ThemeProvider, ThemedComponent} from './components/ChangeTheme.jsx'
 
 function App() {
   return (
