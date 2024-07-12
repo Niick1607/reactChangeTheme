@@ -39,4 +39,4 @@ const ThemedComponent = () => {
 export default {
     ThemeProvider,
     ThemedComponent
-}
+};
