@@ -35,7 +35,7 @@ const ThemedComponent = () => {
   );
 };
 
-export default {
+export {
   ThemedComponent,
   ThemeProvider
 }
